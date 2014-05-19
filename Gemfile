@@ -31,6 +31,10 @@ gem 'bootstrap-sass', github: 'thomas-mcdonald/bootstrap-sass'
 #login authorization
 gem 'devise', '~> 3.1.1'
 
+#paperclip for images
+gem 'paperclip', '~> 3.0'
+
+
 group :development, :test do
      gem 'sqlite3'
 end
