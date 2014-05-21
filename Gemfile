@@ -40,6 +40,12 @@ gem 'devise', '~> 3.1.1'
 #paperclip for images
 gem 'paperclip', '~> 3.0'
 
+#will_paginate gem
+gem 'will_paginate', '~> 3.0'
+
+#will paginate via twitter boostrap
+gem 'will_paginate-bootstrap'
+
 #amazon s3 for paperclip
 gem 'aws-sdk', '~> 1.20.0'
 
